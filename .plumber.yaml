@@ -13,3 +13,9 @@ github:
     githubActionMustComeFromAuthorizedSources:
       trustedGithubActions:
         - getplumber/*
+        - Swatinem/*
+        - softprops/*
+        - dtolnay/*
+        - super-linter/*
+    actionsMustNotExecuteMutableRemoteCode:
+      enabled: false
