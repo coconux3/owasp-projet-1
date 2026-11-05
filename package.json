@@ -1,0 +1,11 @@
+{
+  "name": "owasp-projet-1",
+  "version": "1.0.0",
+  "description": "A tiny slugify library",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
